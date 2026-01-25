@@ -4,6 +4,7 @@ A powerful and flexible multi-version routing library for Swift.
 
 [![Swift](https://img.shields.io/badge/Swift-6.2+-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2015%2B%20%7C%20macOS%2013%2B-blue.svg)](https://developer.apple.com)
+[![SPM](https://img.shields.io/badge/SPM-Compatible-brightgreen.svg)](https://swift.org/package-manager/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## Overview
